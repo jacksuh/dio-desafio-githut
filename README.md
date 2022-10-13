@@ -2,4 +2,4 @@
 
 ## Criação de repositorio
 
-Desafio pratico onde foi executado um primeiro COMMIT
+Desafio prático onde foi executado o primeiro COMMIT
