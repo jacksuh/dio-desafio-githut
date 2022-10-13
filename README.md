@@ -1,5 +1,4 @@
 # Desafio DIO 
-Desafio Dio Git/Gub
 
 ## Criação de repositorio
 
